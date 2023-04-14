@@ -1,1 +1,3 @@
 # git-playground
+
+Git 재밌다...
